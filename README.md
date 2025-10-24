@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DuXiaoChuang
 - 👀 I’m interested in basketball
-- 🌱 I’m currently learning C++、C#
+- 🌱 I’m currently learning Python、C#、C++
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me,My Wechat Number gandao31
 
